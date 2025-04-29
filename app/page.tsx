@@ -42,7 +42,7 @@ export default function Home() {
         <section className="container py-24 md:py-32 space-y-8">
           <div className="flex flex-col items-center text-center space-y-4">
             <div className="inline-block rounded-xl bg-primary/10 px-3 py-1 text-sm text-primary shadow-sm">
-              Developed by SRM Institute of Science and Technology
+              Developed by Aryaman Batra, Varun Singh, Abhinav Rajeev Kumar
             </div>
             <h1 className="text-4xl md:text-6xl font-bold tracking-tighter">
               Advanced Task Management <br className="hidden sm:inline" />
@@ -116,7 +116,7 @@ export default function Home() {
             <span className="text-lg font-bold">TASKIA</span>
           </div>
           <p className="text-sm text-muted-foreground text-center md:text-left">
-            &copy; {new Date().getFullYear()} TASKIA. Developed by SRM Institute of Science and Technology.
+            &copy; {new Date().getFullYear()} TASKIA. Developed by Aryaman Batra, Varun Singh, Abhinav Rajeev Kumar
           </p>
           <div className="flex gap-4">
             <Link href="#" className="text-sm text-muted-foreground hover:text-foreground">
