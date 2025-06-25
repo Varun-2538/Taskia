@@ -9,7 +9,6 @@ const inter = Inter({ subsets: ["latin"] })
 export const metadata = {
   title: "TASKIA - Advanced Task Management",
   description: "Streamline task management and enhance team collaboration",
-'
 }
 
 export default function RootLayout({
